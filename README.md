@@ -3,7 +3,7 @@
 
 |    归纳的笔记标题    |                      笔记的地址                       |
 | :------------------: | :---------------------------------------------------: |
-| JS声明变量的三种方法 | http://my-picture.qiniu.notyourjeffery.top/画布 1.png |
+| JS声明变量的三种方法 | http://my-picture.qiniu.notyourjeffery.top/画布1.png |
 |                      |                                                       |
 |                      |                                                       |
 
