@@ -6,5 +6,7 @@
 |  JS声明变量的三种方法  | http://my-picture.qiniu.notyourjeffery.top/JS声明变量的三种方法.png |
 |   往HTML中添加JS文件   | http://my-picture.qiniu.notyourjeffery.top/往HTML中添加JS文件.png |
 |   JS中的数据类型转换   | http://my-picture.qiniu.notyourjeffery.top/JS中的数据类型转换.png |
-| 10月24日：HTML基础复习 | http://my-picture.qiniu.notyourjeffery.top/10月24日：HTML基础复习.png |
+| 10月24日：HTML基础复习 | http://my-picture.qiniu.notyourjeffery.top/10月24日HTML基础复习.png |
+|  10月25日：创建导航条  |  http://my-picture.qiniu.notyourjeffery.top/创建导航条.png   |
+|  10月25日：伪类选择器  |  http://my-picture.qiniu.notyourjeffery.top/伪类选择器.png   |
 
